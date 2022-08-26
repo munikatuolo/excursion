@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+
+h1,h2,p{
+    
+    text-align: center;
+    color: aliceblue;
+}
+
+a {
+    text-align: center;
+    color: aquamarine;
+    display: block;
+}
+
+.start video {
+    margin: auto;
+    box-sizing: border-box;
+    display: block;
+}
+
+.middle img {
+    margin: auto;
+    box-sizing: border-box;
+    display: block;
+}
+.end img {
+    margin: auto;
+    box-sizing: border-box;
+    display: block;
+}
